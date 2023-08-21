@@ -1,3 +1,5 @@
+package OneDArray;
+
 public class TraverseElement {
     /*
      * Write a program to traverse over the elements of the array using for each

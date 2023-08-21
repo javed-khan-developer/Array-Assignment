@@ -1,3 +1,5 @@
+package OneDArray;
+
 public class SumOfElement {
     /*
      * Write a program to print the sum of all the elements present on even indices
